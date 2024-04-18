@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+lightfm
+nmslib
+pickle-mixin
+scipy
+plotly
